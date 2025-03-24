@@ -1,0 +1,41 @@
+body
+{
+    font-family: 'Courier New';
+    color: rgb(219, 205, 250);
+}
+
+header
+{
+    width: 100%;
+    background-color: rgb(26, 26, 56);
+    float: left;
+    height: auto;
+}
+
+aside
+{
+    width: 40%;
+    background-color: rgb(26, 26, 56);
+    float: left;
+    height: 800px;
+}
+
+main
+{
+    width: 60%;
+    background-color:  rgb(71, 51, 70);
+    float: right;
+    height: 800px;
+}
+
+img
+{
+    width: 350px;
+}
+
+footer
+{
+
+    background-color: rgb(26, 26, 56);
+    float: auto;
+}
