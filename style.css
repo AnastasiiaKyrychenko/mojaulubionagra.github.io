@@ -18,6 +18,7 @@ aside
     background-color: rgb(26, 26, 56);
     float: left;
     height: 800px;
+    text-align: center;
 }
 
 main
@@ -38,4 +39,9 @@ footer
 
     background-color: rgb(26, 26, 56);
     float: auto;
+}
+
+h3
+{
+    text-align: center;
 }
